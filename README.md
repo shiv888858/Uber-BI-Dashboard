@@ -47,10 +47,10 @@ The objective of this project is to derive valuable business insights from the r
 ## 📸 Dashboard Preview
 
 ![Home](Dashboard_Screenshot/home.png)
-![Overview](Dashboard_Screenshot/overview.png)
+![Overview](Dashboard_Screenshot/Overview.png)
 ![Vehicle Analysis](Dashboard_Screenshot/vehicle.png)
-![Revenue Analysis](Dashboard_Screenshot/revenue.png)
-![Customer Analysis](Dashboard_Screenshot/customer.png)
+![Revenue Analysis](Dashboard_Screenshot/Revenue.png)
+![Customer Analysis](Dashboard_Screenshot/Customer.png)
 
 ## 🎯 Project Objective
 
