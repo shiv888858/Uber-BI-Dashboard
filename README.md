@@ -58,6 +58,6 @@ To demonstrate strong data analysis, visualization, and business intelligence sk
 
 ## 📁 Files Included
 
-- Uber_Dashboard.pbix
+- (PowerBI/Uber_Dashboard.pbix)
 - Dashboard Screenshots
 - README.md
