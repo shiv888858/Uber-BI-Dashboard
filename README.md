@@ -44,6 +44,10 @@ The objective of this project is to derive valuable business insights from the r
 - Data Cleaning
 - Interactive Visualizations
 
+## 📸 Dashboard Preview
 
-
----
+![Home](home.png)
+![Overview](overview.png)
+![Vehicle Analysis](vehicle.png)
+![Revenue Analysis](revenue.png)
+![Customer Analysis](customer.png)
