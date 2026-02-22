@@ -48,7 +48,7 @@ The objective of this project is to derive valuable business insights from the r
 
 ![Home](Dashboard_Screenshot/home.png)
 ![Overview](Dashboard_Screenshot/Overview.png)
-![Vehicle Analysis](Dashboard_Screenshot/vehicle.png)
+![Vehicle Analysis](Dashboard_Screenshot/Vehicle.png)
 ![Revenue Analysis](Dashboard_Screenshot/Revenue.png)
 ![Customer Analysis](Dashboard_Screenshot/Customer.png)
 
