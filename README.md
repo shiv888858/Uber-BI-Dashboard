@@ -47,7 +47,11 @@ The objective of this project is to derive valuable business insights from the r
 ## 📸 Dashboard Preview
 
 ![Home](Dashboard_Screenshot/home.png)
-![Overview](overview.png)
-![Vehicle Analysis](vehicle.png)
-![Revenue Analysis](revenue.png)
-![Customer Analysis](customer.png)
+![Overview](Dashboard_Screenshot/overview.png)
+![Vehicle Analysis](Dashboard_Screenshot/vehicle.png)
+![Revenue Analysis](Dashboard_Screenshot/revenue.png)
+![Customer Analysis](Dashboard_Screenshot/customer.png)
+
+## 🎯 Project Objective
+
+To demonstrate strong data analysis, visualization, and business intelligence skills by building a real-world dashboard capable of supporting decision-making.
