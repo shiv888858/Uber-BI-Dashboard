@@ -52,12 +52,13 @@ The objective of this project is to derive valuable business insights from the r
 ![Revenue Analysis](Dashboard_Screenshot/Revenue.png)
 ![Customer Analysis](Dashboard_Screenshot/Customer.png)
 
-## 🎯 Project Objective
-
-To demonstrate strong data analysis, visualization, and business intelligence skills by building a real-world dashboard capable of supporting decision-making.
-
 ## 📁 Files Included
 
 - [Uber_Dashboard](PowerBI/Uber_dashboard.pbix)
 - Dashboard Screenshots
 - README.md
+
+## 🎯 Project Objective
+
+To demonstrate strong data analysis, visualization, and business intelligence skills by building a real-world dashboard capable of supporting decision-making.
+
